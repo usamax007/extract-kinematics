@@ -21,9 +21,9 @@ extract-kinematics/
 
 In the first few lines of the code, the user needs to specify the following:
 * sampling rate (frame rate) of the digitized data
-* the range of frames of interest
+* frame range of interest
 * total video length of interest (in seconds)
-* condition (a short string to describe the flight condition e.g. "hover", "sum-of-sines lateral")
+* condition (a short string to describe the flower movement condition e.g. "stationary", "sum-of-sines lateral")
 
 The code runs the script "extractWingKinematicsRL.m" to analyze the data and calculates
 * 3D trajectories of the robotic flower
