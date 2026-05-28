@@ -38,5 +38,6 @@ extract-kinematics/
 ├── data-out/
 │   └── <kinematic_data>.mat  
 ```
+where 3D trajectories are saved in the Matlab struct 'dataKinematics'.
 
 Then, the code plots these trajectories against time in seconds (in some cases, number of wingstrokes).
