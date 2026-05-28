@@ -1,6 +1,6 @@
 clear
-folder_data_in = 'C:\Users\usama\GaTech Dropbox\Muhammad Usama Bin Sikandar\Research\Code\GitHub_Repos_Final\extract-kinematics\data-in'; % enter folder path
-folder_data_out = 'C:\Users\usama\GaTech Dropbox\Muhammad Usama Bin Sikandar\Research\Code\GitHub_Repos_Final\extract-kinematics\data-out'; % enter folder path 
+folder_data_in = '..\data-in';
+folder_data_out = '..\data-out'; % enter folder path 
 file_cur = '2023-09-12_Msx118_000000_unfiltd.csv';
 file_cur_plumbline = 'Plumblines\2023-09-12_Plumbline_117_3.csv';
 rateSampling = 375;
