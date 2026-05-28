@@ -1,4 +1,4 @@
-# Extracting wing, body and flower Kinematics
+# Extracting wing, body and flower kinematics
 This repo contains code that extracts 3D wing and body kinematic trajectories of a free-flying hawkmoth and 3D trajectory of a robotic flower from the digitized 3D trajectories of a few specific wing, body and flower landmarks. The main file is located at 
 ```text
 extract-kinematics/
